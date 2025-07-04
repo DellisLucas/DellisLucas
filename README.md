@@ -1,8 +1,8 @@
-<h1 align="left">Hello! What's up?</h1>
+<h3 align="left">Hello! What's up?</h3>
 
 ###
 
-<h2 align="left">My name is Lucas Dellis, I'm a Full Stack Developer passionate about building complete and efficient applications.</h2>
+<h4 align="left">My name is Lucas Dellis, I'm a Full Stack Developer passionate about building complete and efficient applications.</h4>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="left">My Stats</h1>
+<h3 align="left">My Stats</h3>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h1 align="left">My Stacks</h1>
+<h3 align="left">My Stacks</h3>
 
 ###
 
